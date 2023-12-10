@@ -1,0 +1,6 @@
+#files
+post_create_log.txt
+
+#directories
+env/
+cache/
